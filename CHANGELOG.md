@@ -1,3 +1,6 @@
+## [0.1.10] - 21.12.2018
+* Bump Android gradle dependency version
+
 ## [0.1.9] - 15.10.2018
 * Support Motion permission (iOS)
 * Reduce minimum iOS deployment target to 9.3
