@@ -1,3 +1,6 @@
+## [0.1.11] - 01.02.2019
+* AndroidX
+
 ## [0.1.10] - 21.12.2018
 * Bump Android gradle dependency version
 
